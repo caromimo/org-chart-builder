@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Christine",
+        "positionName": "DG",
+        "imageUrl": "https://placecats.com/bella/300/300",
+        "parentId": null
+    },
+    {
+        "id": 2,
+        "name": "Caroline",
+        "positionName": "Manager",
+        "imageUrl": "https://placecats.com/poppy/300/300",
+        "parentId": 1
+    },
+    {
+        "id": 3,
+        "name": "Nikhil",
+        "positionName": "Senior Data Scientist",
+        "imageUrl": "https://placecats.com/neo/300/300",
+        "parentId": 2
+    },
+    {
+        "id": 4,
+        "name": "Jeff",
+        "positionName": "Data Analyst",
+        "imageUrl": "https://placecats.com/neo_2/300/300",
+        "parentId": 2
+    },
+    {
+        "id": 5,
+        "name": "Yuxiao",
+        "positionName": "Data Scientist",
+        "imageUrl": "https://placecats.com/millie/300/300",
+        "parentId": 2
+    },
+    {
+        "id": 6,
+        "name": "Andrew",
+        "positionName": "Data Analyst",
+        "imageUrl": "https://placecats.com/louie/300/300",
+        "parentId": 2
+    },
+    {
+        "id": 7,
+        "name": "Rimsha",
+        "positionName": "Student",
+        "imageUrl": "https://placecats.com/bella/300/300",
+        "parentId": 2
+    }
+]
