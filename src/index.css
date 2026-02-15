@@ -64,7 +64,7 @@ body {
 }
 
 .org-chart-node-name {
-  font-size: 15px;
+  font-size: 20px;
   color: #08011E;
   margin-left: 20px;
   margin-top: 32px;
@@ -74,5 +74,5 @@ body {
   color: #716E7B;
   margin-left: 20px;
   margin-top: 3px;
-  font-size: 10px;
+  font-size: 14px;
 }

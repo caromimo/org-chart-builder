@@ -11,7 +11,6 @@ let chart = new d3.OrgChart().container(".chart-container").data(data).nodeConte
       <br>
       <div class="org-chart-node-position"> ${d.data.positionNameEN} </div>
       <div class="org-chart-node-position"> ${d.data.positionNameFR} </div>
-      <br>
       <div class="org-chart-node-position"> ${d.data.classification} </div>
     </div>
   `;
