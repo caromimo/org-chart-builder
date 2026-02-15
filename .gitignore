@@ -17,3 +17,5 @@ dist/
 
 # Data
 *data*
+*data.json
+*.json
